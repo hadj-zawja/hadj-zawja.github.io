@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+    <html>
+        <head>
+            <title>Love Story</title>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width,initial-scale=1.0">
+            <link rel="stylesheet" href="style1.css"/>
+        </head>
+        <body>
+             <header>
+            <h1 class="titre">Hadj and Zawja</h1>
+        </header>
+              <nav>
+            <h2 class="titre2">Une histoire d'amour...</h2>
+            <div class="navigation">
+                <ol>
+                 <li><a href="#firstly">Tout d'abord...</a></li>
+                 <li><a href="#secondly"> Un vendredi...</a></li>
+                 <li id.."thirdly"><a href="#"> Cette nuit...</a></li>
+                 <li id.."fourthly"><a href="#"> Nos dates...</a></li>
+                 <ul>
+                    <li id.."fourthly1"><a href="#"> Le Gondolier...</a></li>
+                    <li id.."fourthly2"><a href="#"> Auchan...</a></li>
+                 </ul>
+                 <li id.."cinqly"><a href="#"> Son voyage...</a></li>
+                 <li id.."sixly"><a href="#"> Le jour où les choses ont changé...</a></li>
+                 <li id.."sevenly"><a href="#"> ...Jusqu'à maintenant</a></li>
+                </ol>
+                </div>
+                </p>          
+            </nav>
+              
+              <article>
+            <div class="contenu">
+                <p>
+                    <ol>
+                        <li id="firstly"><span class="td">Tout d'abord...</span></br>On s'ignorait...on s'était jamais parlé.Pourquoi? Parce que tout simplement, <strong>Zawja</strong>, dans sa petite tête, me voyait comme quelqu'un de hautin(mdr). En fait, elle dit qu'elle m'a salué un jour et je ne lui ai pas répondu, par la suite elle arrêta de me saluer. Trop de fierté celle-là einh. Et moi je ne me rappelle même pas ce jour dont elle parle.</br>Ahh, je m'oublies...Pourquoi je ne lui parlais pas? Parce que je l'ai salué un jour, et elle ne m'a pas répondu...C'est dingue!!! Et c'est comme ça qu'on a vécu pendant des années dans une petite impasse où il est impossible de rester une semaine sans voir ses voisins. Le pire, on ne se voyait même pas.<mark>Zawja dafa soff dh...</mark></br>Mais un jour... 
+                        <li id="secondly"><span class="vendr">Un Vendredi...</span></br>On s'est rencontré. Nous nous sommes rencontrés dans des circonstances désagréables, tristes, douloureuses, males.Pourquoi? Parce que <em>Zawja</em> a perdu un oncle, quelqu'un qui nous est cher. Assane Thioune, il s'appelait. Il était le papa de sa famille mais aussi le papa du quartier( On prie qu'Allah swt l'accueille dans son paradis).</br>Bon bref, ce vendredi à 15heures, rentré de la banque, ma maman m'appelle:</br><div>Maman:-El hadj</br> Moi: Oui Maman( je vais répondre)</br> Maman:Vas y console ta soeur(<strong>ZAwja</strong> debout, entrain de pleurer)</br><strong>Hadj</strong>: ...(profane à cet instant) la prend dans ses bras, essaye de la calmer et d'être là pour elle.(Toujours il ignorait pourquoi elle pleurait) Jusqu'au moment où <strong>Zawja</strong> dit"Je veux voir Pa Assane, en sanglot". C'est en ce moment que <strong>Hadj</strong> a compris. Touché, choqué, mal, triste, mais il est resté fort pour pouvoir la consoler.</br>Après des minutes sous le choc, Zawja commença à se calmer.Que faisait Hadj? Bah, il était toujours à côté de cette fille qui souffrait, continuant de la serrer dans ses bras.</li>
+                    </ol>
+               </p>
+                </div>
+              </article>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </body>
+    </html>
