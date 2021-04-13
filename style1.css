@@ -1,0 +1,65 @@
+
+body{
+       background-color:indianred;
+}
+
+
+
+.titre{
+    font-size: 250%;
+    font-family: cursive;
+    line-height: 0%;
+    text-align: right;
+    text-indent: 0%;
+    color:darkred;
+    animation: mymove 5s infinite;
+    margin-top: 20px;
+}
+
+@keyframes mymove{
+  50%{text-shadow: 8px 8px 7px black;}
+}
+
+h2{
+   font-size:150%;
+   font-weight: bold;
+   color:darkred;
+   animation:mymove 3s infinite;
+   margin-top:5%;
+   text-indent:2%;
+}
+@keyframes mymove{
+   60%{text-shadow: 3px 4px 4px darkblue;}
+}
+
+a{
+   font-size: 120%;
+   color:darkred;
+   text-indent:0%;
+   animation:bounce 5s infinite;
+}
+@keyframes bounce{
+   60%{text-shadow: 4px 4px 3px darkblue;}
+}
+.navigation{
+  border:2px groove;
+  display: block;
+   border-width:4px;
+   height:170%;
+   width:18%;
+   border-color: silver;
+   border-radius: 25px;
+   box-shadow:inset 2px 2px 2px black, 2px 2px 1px darkred;
+   position: fixed;
+}
+
+.contenu{
+  text-indent:1%;
+  text-align: justify;
+  margin-left: 20%;
+  margin-right: 5%;
+}
+span{
+  font-weight: bolder;
+  font-size:100%;
+}

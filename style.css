@@ -1,0 +1,56 @@
+body{
+    background-image: url(background.png);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-color: pink;
+}
+/*names*/
+.para{
+    font-size: 200%;
+    color: silver;
+    font-family:cursive !important;
+    text-align: right;
+    text-indent: 10px;
+    opacity:0.8;
+    text-shadow: 3px 3px 3px silver;
+    font-weight: bolder;
+    line-height: 0px;
+}
+
+/*Bienvenue dans notre page*/
+.wel{
+    font-size: 500%;
+    text-align: center;
+    font-family:cursive, fantasy;
+    color: silver;
+    font-weight: bolder;
+    animation:mymove 5s infinite;
+    text-shadow: 10px 10px 10px red;
+    opacity: 0.9;
+    position: relative;
+}
+
+@keyframes mymove{
+    50%{text-shadow: 30px 40px 50px white;}
+}
+/*Apropos de nous*/
+.butt{
+    background-color: pink;
+    color:black;
+    border:3px groove pink;
+    border-radius: 10px;
+    padding:6px;
+    font-size:120%;
+    font-weight: bolder;
+    text-shadow: 5px 5px 5px black;
+    animation: mymove 5s infinite;
+}
+
+form{
+    text-align:center;
+    font-size:150%;
+}
+
+
